@@ -1,0 +1,80 @@
+/* Buttons */
+.my_account {
+    background-color: rgb(71,99,128,50) ;
+    color: white;
+    font-family: Open Sans, Arial, Helvetica, sans-serif;
+    position: fixed;
+    top: 15em;
+    left: 39em;
+}
+
+    .sign_out {  background-color: rgb(71,99,128,50) ;
+        color: white;
+        font-family: Open Sans, Arial, Helvetica, sans-serif;
+        position: relative;
+        left: 72em;
+}
+    
+
+     .search {
+         background-color: rgb(112,181,112,71);
+        color: white;
+        font-family: Open Sans, Arial, Helvetica, sans-serif;
+        position: fixed;
+        left: 40em;
+        }
+
+        a {
+            border-radius: 40px;
+            text-decoration: none;
+            font-size: 30px;
+            font-weight: bold;
+            padding: 30px 20px;
+            text-align: center;
+            white-space: nowrap;
+            text-align:center;
+            line-height:1em;
+   }
+   
+   
+
+     
+     h1  {
+         font-family: Calisto MT, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 70px;
+     font-weight: normal;
+     text-align: center;
+    }
+    
+
+     h2 {
+         font-family: Calisto MT, Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+font-weight: normal;
+text-align: center;
+margin-top: 400px;
+}
+
+p {font-family: Open Sans, helvetica;
+font-size: 28px;
+
+}
+
+.featured {
+    display: inline-block;
+    position: relative;
+left: 40em;
+}
+
+.featured p {
+    position: relative;
+    text-align: center; 
+}
+
+
+.container {
+    width:100%;
+    min-width:  1000px;
+    height:auto;
+}
+
